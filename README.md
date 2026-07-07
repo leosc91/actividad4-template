@@ -31,9 +31,11 @@ Líneas 342 - 348. Carga de imagen personal en la introducción del template
 <img width="657" height="156" alt="image" src="https://github.com/user-attachments/assets/4d38e2b9-fec4-4bd4-aa10-4a1abc93ac7d" />
 
 Lineas 414 - 422. Reemplazo de texto Lorem Ipsum por información personal
-<img width="862" height="175" alt="image" src="https://github.com/user-attachments/assets/c56474e3-8a13-4bf7-b96b-93f62d2e2b2f" />
+<img width="862" height="175" alt="image" src="https://github.com/user-attachments/assets/c56474e3-8a13-4bf7-b96b-93f62d2e2b2f" /> 
 
 # Ejecución
 Portafolio funcionando en el navegador
+<img width="1457" height="787" alt="image" src="https://github.com/user-attachments/assets/ee75c102-7149-4c6e-bdfb-18ad1b1b2444" />
+
 
 
