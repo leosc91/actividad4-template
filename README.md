@@ -1,4 +1,4 @@
-<img width="1330" height="817" alt="image" src="https://github.com/user-attachments/assets/31ef54fc-5db7-49cd-8ecc-42b29d46f93f" /># Actividad 4 - Portafolio
+# Actividad 4 - Portafolio
 **Nombre del proyecto:** Uso de templates
 
 **Realizado por:** Salinas Cenobio Leonel Isaac
